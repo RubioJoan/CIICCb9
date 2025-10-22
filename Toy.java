@@ -8,7 +8,7 @@ public class Toy {
         this.price =price2;
     }
     /* THIS is a
-     * multiline
+     * multilinep
      * comment
      */
 
