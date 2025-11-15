@@ -12,9 +12,9 @@ public class Task4 {
 
         if (input.equals(reversed)) {
              System.out.println("The input string is palindrome");
-        }else
-        System.out.println("The input string is not palindrome")
-        ;
-
+        }else{
+        System.out.println("The input string is not palindrome");
+        }
+        scanner.close();
     }
 }
