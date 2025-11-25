@@ -7,7 +7,7 @@ public class Task4 {
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
 
-        StngBldr pal = new StngBldr(input);
+        StringBuilder pal = new StringBuilder (input);
         String reversed = pal.reverse().toString();
 
         if (input.equals(reversed)) {
