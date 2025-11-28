@@ -1,4 +1,4 @@
-import static javaa.lang.Math.*
+import static java.lang.Math.*
 
 public class Task9 {
   public static int add ( int a, int b){
