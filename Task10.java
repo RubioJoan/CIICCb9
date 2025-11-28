@@ -10,7 +10,6 @@ public class Task10{
       System.out.println(firstName + " "+ lastName);
     }
   }   
-  public class TaskSheet10{
     public static void main (String[] args){
       Student [] students = new Student []{
         new Student ("Morgan", "Freemaan"),
@@ -20,7 +19,7 @@ public class Task10{
       for (Student s: students){
         s.printFullName();
       }
-    }
+    
   }
 }
 
