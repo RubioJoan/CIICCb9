@@ -38,8 +38,6 @@ public class Task7 {
 
         if (b != 0) {
             System.out.println("DIVISION: " + divide(a, b));
-        } else {
-            System.out.println("Division: Cannot divide by zero!");
         }
 
     input.close();

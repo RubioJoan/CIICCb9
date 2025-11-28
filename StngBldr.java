@@ -12,6 +12,7 @@ public class StngBldr {
         } else {
             System.out.println("Sorry, the inputted string is less than 10");
         return;
+
     }
 
     //Print the length of the string
